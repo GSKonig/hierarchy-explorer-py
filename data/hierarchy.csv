@@ -1,0 +1,25 @@
+node,parent,label
+CC_TOTAL,,Total Cost Centre
+CC_OPEX,CC_TOTAL,Operating Expenditure
+CC_STAFF,CC_OPEX,Staff Costs
+CC_SALARIES,CC_STAFF,Salaries & Wages
+CC_SUPER,CC_STAFF,Superannuation
+CC_TRAINING,CC_STAFF,Training & Development
+CC_IT,CC_OPEX,IT & Systems
+CC_LICENSES,CC_IT,Software Licenses
+CC_INFRA,CC_IT,Cloud Infrastructure
+CC_SUPPORT,CC_IT,IT Support Contracts
+CC_FACILITIES,CC_OPEX,Facilities
+CC_RENT,CC_FACILITIES,Office Rent
+CC_UTILITIES,CC_FACILITIES,Utilities
+CC_CLEANING,CC_FACILITIES,Cleaning & Maintenance
+CC_MARKETING,CC_OPEX,Marketing & Comms
+CC_DIGITAL,CC_MARKETING,Digital Marketing
+CC_EVENTS,CC_MARKETING,Events & Sponsorship
+CC_CAPEX,CC_TOTAL,Capital Expenditure
+CC_HW,CC_CAPEX,Hardware Procurement
+CC_SERVERS,CC_HW,Servers & Networking
+CC_DEVICES,CC_HW,End User Devices
+CC_DEVTOOLS,CC_CAPEX,Development Tooling
+CC_CICD,CC_DEVTOOLS,CI/CD & DevOps Tools
+CC_ANALYTICS,CC_DEVTOOLS,Analytics & BI Tools
